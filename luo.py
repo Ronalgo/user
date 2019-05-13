@@ -1,5 +1,5 @@
-num1 = 100
-num2 = 200
+num1 = 10
+num2 = 20
 print(num1 + num2)
 
 for i in range(15)
